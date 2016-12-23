@@ -1,0 +1,2 @@
+git init				: activer un dossier comme repository Git
+git add nomDeVotreFichier.extension	: ajouter le fichier à l'index Git
